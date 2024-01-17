@@ -3,7 +3,7 @@ layout: category
 title: Teaching
 ---
 
-## Courses at Ecole Centrale Nantes  
+## Courses at Ecole Centrale Nantes  
 
 - APST1 (18h) : Apprentissage Statistique 
     - Practical machine learning courses on Python
@@ -11,6 +11,7 @@ title: Teaching
     - From 2020-2021 to 2023-2024 
 - FAS (4h) : Fondements de l'Apprentissage Statistique
     - Practical course on kernel methods 
+    - For the major Mathematics and Applications (ECN) 
     - 2021-2022
 - PRSTA (16h) : Probability and Statistics
     - Practical course on probability and statistics
