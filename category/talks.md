@@ -9,8 +9,7 @@ title: Talks
 - From single-cell differential expression analysis to differential transcriptome analysis with kernel based testing - [Synopsium MeInBio 2023](https://www.meinbio.uni-freiburg.de/rtg2344-symposium-2023) - Freiburg, Germany - October 2023 
 - From single-cell differential expression analysis to differential transcriptome analysis with kernel based testing - [Statistical Methods for Post Genomic Data 2023](https://smpgd2023.sciencesconf.org/) - Ghent, Belgium - February 2023
 - A kernel two-sample test for scRNAseq data - Workshop DDisc - Toulouse, France - October 2022
-- Kernel two-sample tests for single-cell RNA sequencing datasets - Oléron, France - October 2021
-- 
+- Kernel two-sample tests for single-cell RNA sequencing datasets - [Colloque Jeunes Probabilistes et Statisticiens 2021](https://jps-2021.sciencesconf.org/) - Oléron, France - October 2021
 
 ## Poster 
 - POSTER : Two sample testing and data visualization with kernel methods for single-cell RNA sequencing, 

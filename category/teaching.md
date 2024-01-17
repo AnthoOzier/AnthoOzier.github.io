@@ -6,7 +6,7 @@ title: Teaching
 ## Courses at Ecole Centrale Nantes  
 
 - APST1 (18h) : Apprentissage Statistique 
-    - Practical machine learning courses on Python
+    - Practical machine learning course on Python
     - For the major Mathematics and Applications (ECN) and the M2 Ingénierie Statistique (Nantes Univesité)
     - From 2020-2021 to 2023-2024 
 - FAS (4h) : Fondements de l'Apprentissage Statistique
@@ -17,8 +17,8 @@ title: Teaching
     - Practical course on probability and statistics
     - For the M1 Mechanical Engineering (ECN)
     - From 2019-2020 to 2021-2022
-- Maths-S6 (22h) : Mathematics for the engineer
-    - Practical courses on probability, statistics and interpolation
+- Maths-S6 (22h) : Mathematiques pour l'ingénieur
+    - Practical course on probability, statistics and interpolation
     - For the first year engineering students (ECN)
     - From 2020-2021 to 2021-2022
 - Project supervision (10h) : 
