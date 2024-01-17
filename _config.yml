@@ -1,13 +1,40 @@
-lsi: false
-safe: true
-source: README.md
-incremental: false
+---
+markdown: kramdown
 highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
-theme: jekyll-theme-minimal
 title: Anthony Ozier-Lafontaine
-description: I am looking for a Postdoc in Applied Statistics
+url: https://anthoOzier.github.io
+baseurl: '' # /anthoOzier.github.io
+
+author:
+  name: AnthoOzier
+#  url: https://twitter.com/fongandrewc
+paginate: 5
+
+exclude:
+- README.md
+
+plugins:
+- jekyll-feed
+- jekyll-gist
+- jekyll-paginate
+- jekyll/scholar
+- jemoji
+
+sidebar_home_link: true
+
+theme_colors:
+  sidebar-bg-color: "#0B1728" 
+  sidebar-fg-color: "#FFFFFF"
+  link-color: "#268bd2"
+
+sidebar-sticky: true
+
+layout-reverse: false
+
+remote_theme: fongandrew/hydeout
+
+google_analytics: ''
+disqus:
+  shortname: ''
+# theme: jekyll-theme-hydeout # replaced by remote_theme
+
