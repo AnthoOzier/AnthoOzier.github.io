@@ -17,13 +17,13 @@ presented at [Conference AI and Health](https://www.lebesgue.fr/fr/conf_IA_sante
 
 
 ## Working groups
-- A kernel two-sample test for scRNAseq data - Seminar of team ALEA, LMJL - January 2023
-- Principal Component Analysis - LMJL doctoral student seminar - May 2022
+- A kernel two-sample test for scRNAseq data - Seminar of team ALEA, LMJL - Nantes, France - January 2023
+- Principal Component Analysis - LMJL doctoral student seminar - Nantes, France - May 2022
 - Non linear comparison of single-cell RNA sequencing datasets - [Journées de l'axe Bio-informatique BIOGENOUEST](https://www.biogenouest.org/evenements/journee-de-laxe-bio-informatique/) - Rennes, France - March 2022
 - Un test à noyaux non-paramétrique de comparaison d’échantillon pour le Single-Cell RNA sequencing: Application au myélome multiple - Journée du Laboratoire de Mathématiques Jean Leray - Nantes, France - October 2021
 - Un test à noyaux non-paramétrique de comparaison d’échantillon pour le Single-Cell RNA sequencing: Application au myélome multiple - Journée des doctorants de l'école doctorale Mastic - visioconference - May 2021
 - Test non-paramétrique de comparaison d’échantillon basé sur les méthodes a noyaux: application au Single-Cell RNA sequencing - LAREMA doctoral student seminar - visioconference - April 2021  
-- Two-Sample Tests with Kernel Methods - LMJL doctoral student seminar - December 2020
+- Two-Sample Tests with Kernel Methods - LMJL doctoral student seminar - Nantes, France - December 2020
 - Test de comparaison de populations par Kernel Fisher Discriminant Analysis - meeting of [ANR SingleStatOmics](https://anr-singlestatomics.pages.math.cnrs.fr/) - Paris, France - November 2020
 
 
