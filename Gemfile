@@ -8,4 +8,5 @@ group :jekyll_plugins do
 	gem "jekyll-feed", "~> 0.6"
     gem "jekyll-scholar"
     gem "jemoji"
+    gem "kramdown-parser-gfm"
 end

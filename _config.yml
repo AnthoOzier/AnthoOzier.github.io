@@ -26,8 +26,8 @@ theme_colors:
   # sidebar-bg-color: "#0B1728" 
   # sidebar-fg-color: "#FFFFFF"
   # link-color: "#268bd2"
-  sidebar-bg-color: "#FFFFFF" 
-  sidebar-fg-color: "#0b2816"
+  sidebar-bg-color: "#0b2816" 
+  sidebar-fg-color: "#FFFFFF"
   link-color: "#28a663"
 
 sidebar-sticky: true
