@@ -8,7 +8,7 @@ title: Research
 During my PhD, I developed interpretable kernel-based tests to compare multivariate biological samples measured with single-cell techniques in complex experimental settings. <a href="{{ '/assets/pdf/these/manuscript_These_AOL.pdf' | prepend: site.baseurl | prepend: site.url }}">[Manuscript]</a> - <a href="{{ '/assets/pdf/these/manuscript_These_AOL.pdf' | prepend: site.baseurl | prepend: site.url }}">[Slides]</a> - [[Ktest package]](https://github.com/LMJL-Alea/ktest). 
 
 ## Publications : 
-- [Evidence for close molecular proximity between reverting and undifferentiated cells](https://link.springer.com/article/10.1186/s12915-022-01363-7) - S. Zreika, C. Fourneaux, E. Vallin, L. Modolo, R. Seraphin, A. Moussy, E. Ventre, M. Bouvier, A. Ozier-Lafontaine, A. Bonnaffoux
+- [Evidence for close molecular proximity between reverting and undifferentiated cells](https://link.springer.com/article/10.1186/s12915-022-01363-7) - S. Zreika, C. Fourneaux, E. Vallin, L. Modolo, R. Seraphin, A. Moussy, E. Ventre, M. Bouvier, A. Ozier-Lafontaine, A. Bonnaffoux, F. Picard, O. Gandrillon, S. Gonin-Giraud 
 
 ## Preprints :
 - [Kernel-Based Testing for Single-Cell Differential Analysis](https://arxiv.org/abs/2307.08509) - A. Ozier-Lafontaine, C. Fourneaux, G. Durif, C. Vallot, O. Gandrillon, S. Giraud, B. Michel, F. Picard.
