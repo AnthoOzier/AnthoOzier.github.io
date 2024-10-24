@@ -16,12 +16,14 @@ During my PhD, I developed interpretable kernel-based tests to compare multivari
 - [Extending Kernel Testing To General Designs](https://arxiv.org/abs/2405.13799) - A. Ozier-Lafontaine, F. Picard, B. Michel
 
 ## Previous works : 
-
-- [Landmark-based spatial navigation across the human lifespan](https://elifesciences.org/articles/81318) - M. Bécu, D. Sheynikhovich, S. Ramanoël, G. Tatur, A. Ozier-Lafontaine, CN Authié, JA Sahel, A. Arleo.
-- [Selective neural coding of object, feature, and geometry spatial cues in humans](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.26002) - S. Ramanoël, M. Durteste, A. Bizeul, A. Ozier-Lafontaine, M. Bécu, JA Sahel, C. Habas, A. Arleo.
-
-
-- In 2017, I participated in the preliminaries of the devellopement of bio-inspired artificial retinas under the supervision of [Alain Cappy](https://scholar.google.fr/citations?user=qW4GehUAAAAJ&hl=fr) at the IRCICA (Lille, France). <a href="https://anthoozier.github.io/pdfs/rapport_IRCICA.pdf">Here is my report</a>
+- In 2018, I was a research intern working on spatial cognition under the supervision of [Angelo Arleo](https://scholar.google.com/citations?user=_3cuJJoAAAAJ&hl=en) at the Institut de la Vision. It led to the publication of two articles : 
+    - [Landmark-based spatial navigation across the human lifespan](https://elifesciences.org/articles/81318) - M. Bécu, D. Sheynikhovich, S. Ramanoël, G. Tatur, A. Ozier-Lafontaine, CN Authié, JA Sahel, A. Arleo.
+    - [Selective neural coding of object, feature, and geometry spatial cues in humans](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.26002) - S. Ramanoël, M. Durteste, A. Bizeul, A. Ozier-Lafontaine, M. Bécu, JA Sahel, C. Habas, A. Arleo.
 
 
+- In 2017, I was a research intern working on the developement of bio-inspired artificial retinas under the supervision of [Alain Cappy](https://scholar.google.fr/citations?user=qW4GehUAAAAJ&hl=fr) at the IRCICA (Lille, France). <a href="https://anthoozier.github.io/pdfs/rapport_IRCICA.pdf">Here is my report</a>
+
+<!---
+https://stackoverflow.com/questions/30745981/opening-pdf-in-a-browser-with-github-pages
+-->
 
