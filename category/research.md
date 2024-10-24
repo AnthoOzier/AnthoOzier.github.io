@@ -21,7 +21,7 @@ During my PhD, I developed interpretable kernel-based tests to compare multivari
 - [Selective neural coding of object, feature, and geometry spatial cues in humans](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.26002) - S. Ramanoël, M. Durteste, A. Bizeul, A. Ozier-Lafontaine, M. Bécu, JA Sahel, C. Habas, A. Arleo.
 
 
-- In 2017, I participated in the preliminaries of the devellopement of bio-inspired artificial retinas under the supervision of [Alain Cappy](https://scholar.google.fr/citations?user=qW4GehUAAAAJ&hl=fr) at the IRCICA (Lille, France). <a href="pdfs/rapport_IRCICA.pdf">Here is my report</a>
+- In 2017, I participated in the preliminaries of the devellopement of bio-inspired artificial retinas under the supervision of [Alain Cappy](https://scholar.google.fr/citations?user=qW4GehUAAAAJ&hl=fr) at the IRCICA (Lille, France). <a href="https://anthoozier.github.io/pdfs/rapport_IRCICA.pdf">Here is my report</a>
 
 
 
