@@ -16,6 +16,8 @@ During my PhD, I developed interpretable kernel-based tests to compare multivari
 - [Extending Kernel Testing To General Designs](https://arxiv.org/abs/2405.13799) - A. Ozier-Lafontaine, F. Picard, B. Michel
 
 ## Previous works : 
+- For my master thesis in 2019, I worked on Variational Autoencoders (VAE) to perform dimension reduction of single-cell transcriptomics. <a href="https://anthoozier.github.io/pdfs/rapport_CRCINA.pdf">Here is my report</a>
+
 - In 2018, I was a research intern working on spatial cognition under the supervision of [Angelo Arleo](https://scholar.google.com/citations?user=_3cuJJoAAAAJ&hl=en) at the Institut de la Vision. It led to the publication of two articles : 
     - [Landmark-based spatial navigation across the human lifespan](https://elifesciences.org/articles/81318) - M. Bécu, D. Sheynikhovich, S. Ramanoël, G. Tatur, A. Ozier-Lafontaine, CN Authié, JA Sahel, A. Arleo.
     - [Selective neural coding of object, feature, and geometry spatial cues in humans](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.26002) - S. Ramanoël, M. Durteste, A. Bizeul, A. Ozier-Lafontaine, M. Bécu, JA Sahel, C. Habas, A. Arleo.
