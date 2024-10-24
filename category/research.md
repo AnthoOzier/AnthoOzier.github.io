@@ -19,5 +19,9 @@ During my PhD, I developed interpretable kernel-based tests to compare multivari
 
 - [Landmark-based spatial navigation across the human lifespan](https://elifesciences.org/articles/81318) - M. Bécu, D. Sheynikhovich, S. Ramanoël, G. Tatur, A. Ozier-Lafontaine, CN Authié, JA Sahel, A. Arleo.
 - [Selective neural coding of object, feature, and geometry spatial cues in humans](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.26002) - S. Ramanoël, M. Durteste, A. Bizeul, A. Ozier-Lafontaine, M. Bécu, JA Sahel, C. Habas, A. Arleo.
-- [Modulation of spatial cue processing across the lifespan: a geometric polarization of space restores allocentric navigation strategies in children and older adults](https://www.biorxiv.org/content/10.1101/2020.02.12.945808v2.abstract) - M. Bécu, D. Sheynikhovich, S. Ramanoël, G. Tatur, A. Ozier-Lafontaine, JA Sahel, A. Arleo. 
+
+
+- In 2017, I participated in the preliminaries of the devellopement of bio-inspired artificial retinas under the supervision of [Alain Cappy](https://scholar.google.fr/citations?user=qW4GehUAAAAJ&hl=fr) at the IRCICA (Lille, France). Here is my report : <a href="pdfs/Rapport_Stage_OzierLafontaine_2017_ReseauxNeurones .pdf" class="image fit"></a>
+
+
 
