@@ -15,6 +15,7 @@ During my PhD, I developed interpretable kernel-based tests to compare multivari
 - [Extending Kernel Testing To General Designs](https://arxiv.org/abs/2405.13799) - A. Ozier-Lafontaine, F. Picard, B. Michel
 
 ## Internships : 
+
 ### Single-cell data analysis at CRCINA, Nantes, France (2019)
 -  <a href="https://anthoozier.github.io/pdfs/rapport_CRCINA.pdf">Variational Autoencoders (VAE) for dimension reduction of single-cell </a> 
 
